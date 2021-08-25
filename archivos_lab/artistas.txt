@@ -1,7 +1,4 @@
 Bad Bunny
-<<<<<<< HEAD
 BTS
-=======
 Black Pink
->>>>>>> b6b2855c10d29401cb84efd28cdaf5e25b6217bb
-artistas.txt (END)
+Benito Martinez
